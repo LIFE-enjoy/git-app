@@ -55,7 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'device'
 
-アイウエオ
-
 gem 'pry-rails'
 
